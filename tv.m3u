@@ -161,7 +161,7 @@ https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w760384955
 
 #EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="https://horsefly11.github.io/tv/a3.png",10 Antenna 3 Treviso
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist_w1156978762.m3u8
-#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="https://horsefly11.github.io/tv/telenuovo.png",11 Telenuovo Verona - Padova
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="https://horsefly11.github.io/tv/telenuovo.png",11 Telenuovo Verona Padova
 https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="https://horsefly11.github.io/tv/canaleita.png",12 Canale Italia Rubano (PD)
 https://liveac115b.b-cdn.net/canale1.smil/chunklist_b1100000.m3u8
