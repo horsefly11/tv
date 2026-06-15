@@ -40,7 +40,7 @@ https://bbtv.intvstream.net:3942/hybrid/play.m3u8
 https://585b674743bbb.streamlock.net/9022/9022/chunklist_w296811806.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/playtag.png",PlayTag# Cava Dei Tirreni (SA)
 https://cdn3.wowza.com/5/MVFNZnRHbnliTDI2/radio_playtag1/playtag/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/rtcca.png",181 RTC Quarta Rete Cava Dei Tirreni (SA)
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/rtccava.png",181 RTC Quarta Rete Cava Dei Tirreni (SA)
 https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/canale21.png",10 Canale 21 Napoli
 https://streamcdnr1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist_b928000.m3u8
@@ -50,26 +50,30 @@ https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40f
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/chunklist_w546894622.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/otto.jpg",16 Otto Channel Avellino 
 https://cdn147-fra.azotosolutions.com:8443/cdnedge/smil:live.smil/chunklist_w782616894_b4692000.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/otto.jpg",75 TVA Campania Napoli
+https://stream10.xdevel.com/video0s978817-3107/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/kisskissna.png",76 Kiss Kiss Napoli
 https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/chunklist_w2106192277_b2128000_slita.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/teleclub.png",77 Teleclubitalia Napoli
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/tvaca.png",77 Teleclubitalia Napoli
 https://teleclubitalia.iostream.it/tci1080.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nora.jpg",79 Nora TV Acerra (NA)
-https://57068da1deb21.streamlock.net/noratv/noratv/chunklist_w302099079.m3u8
+https://57068da1deb21.streamlock.net/noratv/noratv/chunklist_w202011372.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nuvola.png",80 Nuvola TV Ischia (NA)
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c_output_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/ischia.png",81 TeleIschia (NA)
 https://rst2.saiuzwebnetwork.it:8081/teleischia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/media.png",82 Media TV San Salvatore Telesino (BN)
 https://stream3.aswifi.it/mediatv/stream/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/tvluna.png",83 TV Luna Napoli
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/tvluna.png",83 TVM Luna Napoli
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/radiocrc.png",84 CRC TV Napoli
-https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/stream_t3aa174f4e7a772ab03605e974b335c68_r1729943842.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/labtv.png",84 Lab TV Avellino
 https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/stream_t0da4128180f9e648c80ffabe16fa031a_r1683873090.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/stabia.png",89 Tele Stabia Castellamare di Stabia (NA)
 https://stream3.aswifi.it/giglitv/live/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/capri.png",93 Radio Capri (NA)
+https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b_output_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/videonola.png",94 Video Nola (NA)
 https://videonola.aswifi.it/videonolaabr/live_hi/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/campaniatv.png",96 Campania TV Napoli 
@@ -94,8 +98,6 @@ https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/chunklist_w15012
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1724924777.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/club91.png",716 Radio Club 91 Casoria (NA)
 https://stream10.xdevel.com/video0s976546-2079/stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/capri.png",866 Radio Capri (NA)
-https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b_output_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/ercolano.png",Teleradio Ercolano (NA)
 https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/canale1.jpg",Canale UNO Napoli
@@ -282,7 +284,7 @@ https://stream9.xdevel.com/video0s976541-1300/stream/chunks.m3u8
 https://5a1178b42cc03.streamlock.net/TeleabruzzoTV/TeleabruzzoTV/chunklist_w2014932702.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="https://horsefly11.github.io/tv/nuova.png",82 La Nuova TV Potenza
-https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/chunklist_w1507054101.m3u8
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/chunklist_w116825088.m3u8
 #EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="https://horsefly11.github.io/tv/carina.png",85 Radio Carina TV Potenza
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="https://horsefly11.github.io/tv/radiocitta.png",89 Radio Città Potenza
@@ -466,12 +468,20 @@ https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE
 https://59d7d6f47d7fc.streamlock.net/tv12/tv12/chunklist_w1216712424.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/il13.png",13 Il 13 Udine
 https://tv7.zappr.stream/hls/il13.m3u8
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/telepn.png",16 Tele Pordenone
+https://cdn133-it.azotosolutions.com/cdnedge34/telepordenone/chunklist_w1460001305.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/canale77.png",77 Canale 77 Pordenone
 https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/chunklist_w1449921274_b4500000_slen.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/friuli24.png",80 Friuli 24 Udine
 https://585b674743bbb.streamlock.net/9080/9080/chunklist_w815350008.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/ran-tv.png",90 RAN TV Friul Udine
 https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/chunklist_w54033261.m3u8
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/altobut.png",91 Tele Alto But Paluzza
+https://cdn133-it.azotosolutions.com/cdnedge34/telealtobut/chunklist_w1514872026.m3u8
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/videoregione.png",92 TVideoregione 
+https://cdn133-it.azotosolutions.com/cdnedge34/videoregione/chunklist_w1116164104.m3u8
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/canalfu.png",98 Canal Furlan 
+https://cdn133-it.azotosolutions.com/cdnedge34/canalfurlan/chunklist_w834508529.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/vtc.png",Video Tele Carnia Treppo Carnico (UD)
 https://rst2.saiuzwebnetwork.it:8081/vtccarnia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/puntozero.png",Radio Punto Zero TV Trieste 
@@ -492,8 +502,6 @@ https://load-balancer.azotosolutions.com/cdnedge34/ranslo/chunklist_w1672014205.
 https://load-balancer.azotosolutions.com/cdnedge34/ranwes/chunklist_w1229297762.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/ran-tv.png",RAN Network Udine
 https://load-balancer.azotosolutions.com/cdnedge34/ranetwork/chunklist_w1677784218.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/telepn.png",16 Tele Pordenone
-https://video.wifi4all.it/telepn/telepn.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/mare.png",TM Telemare Gorizia
 https://rst5.saiuzwebnetwork.it:3899/hybrid/play.m3u8
 
