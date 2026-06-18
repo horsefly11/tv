@@ -50,7 +50,7 @@ https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40f
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/chunklist_w546894622.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/otto.jpg",16 Otto Channel Avellino 
 https://cdn147-fra.azotosolutions.com:8443/cdnedge/smil:live.smil/chunklist_w782616894_b4692000.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/otto.jpg",75 TVA Campania Napoli
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/teleclub.png",75 TVA Campania Napoli
 https://stream10.xdevel.com/video0s978817-3107/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/kisskissna.png",76 Kiss Kiss Napoli
 https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/chunklist_w2106192277_b2128000_slita.m3u8
@@ -997,8 +997,10 @@ https://stream6.xdevel.com/video0s975966-1967/stream/chunks.m3u8
 https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/chunklist_w111788746.m3u8
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/vintage.png",76 Radio Vintage TV Catania
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/chunklist_w297543589.m3u8
-#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/iblea.png",79 TeleIblea Ragusa
-https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/chunklist_w53958245.m3u8
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/ciak.png",77 Ciak Telesud Paterno (CT)
+https://api.zappr.stream/ciaktelesud.m3u8
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/tvanorma.png",79 TVA Telenormanna Adrano (CT)
+https://api.zappr.stream/tvatelenormanna.m3u8
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/rmk.png",80 RMK Sciacca (AG)
 https://648026e87a75e.streamlock.net/rmktv/rmktv/chunklist_w1309310317.m3u8
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/sestaretebelpasso.png",81 SestaRete Belpasso (CT)
@@ -1017,6 +1019,8 @@ https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w2085455176.m3u8
 https://648026e87a75e.streamlock.net/telemessina/telemessina/chunklist_w1983843933.m3u8
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/teleacras.png",89 Tele Acras Agrigento
 https://5db313b643fd8.streamlock.net/teleacras/teleacras/chunklist_w708941343.m3u8
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/iblea.png",79 TeleIblea Ragusa
+https://64b16f23efbee.streamlock.net/teleiblea/teleiblea/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/ondatv.png",90 Onda TV Sant'Agata di Militello (ME)
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
 #EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="https://horsefly11.github.io/tv/mistretta.png",90 Telemistretta (ME)
