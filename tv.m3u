@@ -12,7 +12,7 @@ https://w1.mediastreaming.it/radiompa/livestream/playlist.m3u8
 https://radiopaestum.no-ip.biz:8443/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/stile.jpg",78 Stile TV Capaccio Paestum (SA)
 https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/set.png",SET TV Vallo Della Lucania (SA)
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/set.png",97 SET TV Vallo Della Lucania (SA)
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/citta105.png",Radio Città 105 Eboli (SA)
 https://
@@ -22,8 +22,6 @@ https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
 https://stream10.xdevel.com/video1s975429-2313/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/infoc.png",79 InfoCilentoTV Agropoli (SA)
 https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/chunklist_w135733893.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/cilentotv1.png",CilentoTV Marina di Camerota (SA)
-https://stream4.xdevel.com/video0s976831-1598/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/oggi.png",TV Oggi Salerno
 https://stream10.xdevel.com/video14s975955-1911/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/telecolore.png",75 Telecolore Salerno
@@ -156,8 +154,6 @@ http://207.180.201.85:1935/kemonia/kemoniahls.stream/playlist.m3u8
 https://bbtv.intvstream.net:3973/stream/play.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/yara.png",YARATV Napoli
 https://rst1.saiuzwebnetwork.it:8081/yaratv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/teleoltre.png",TeleOLTRE Aversa
-https://5c389faa13be3.streamlock.net:9553/ol3radio/ol3radio/chunklist_w760384955.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="https://horsefly11.github.io/tv/a3.png",10 Antenna 3 Treviso
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/chunklist_w1156978762.m3u8
