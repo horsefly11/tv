@@ -472,8 +472,8 @@ https://tv7.zappr.stream/hls/il13.m3u8
 https://cdn133-it.azotosolutions.com/cdnedge34/telepordenone/chunklist_w1460001305.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/canale77.png",77 Canale 77 Pordenone
 https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/chunklist_w1449921274_b4500000_slen.m3u8
-#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/friuli24.png",80 Friuli 24 Udine
-https://585b674743bbb.streamlock.net/9080/9080/chunklist_w815350008.m3u8
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/friuli24.png",80 FriuliTV 24 Udine
+https://585b674743bbb.streamlock.net/9080/9080/chunklist_w1800978788.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/ran-tv.png",90 RAN TV Friul Udine
 https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/chunklist_w54033261.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://horsefly11.github.io/tv/altobut.png",91 Tele Alto But Paluzza
@@ -524,15 +524,21 @@ https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/chunklist
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/canale21.png",19 Canale 21 Extra Napoli
 https://streamcdng13-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/teleregionelazio.png",74 TeleRegione Lazio Terracina (LT)
-https://streaming.softwarecreation.it/TR118/TR118/chunklist_w1848673837.m3u8
+https://streaming.softwarecreation.it/TR118/TR118/chunklist_w2073152040.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/oro.png",77 Rete Oro TV HD Roma
 https://5926fc9c7c5b2.streamlock.net/9094/9094/chunklist_w39897723.m3u8
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/yes.png",78 TV Yes Italia Roma
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/hit.png",79 Hit Fm Orte (VT)
 https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist_w816784556.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/trl.png",80 Tele Radio Leo Orte (VT)
 https://5db313b643fd8.streamlock.net/TRL/TRL/chunklist_w1970674167.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/canale81.png",81 Canale 81 
-https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/chunklist_w2126306003.m3u8
+https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/chunklist_w481456682.m3u8
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/mana.png",82 Manà Mnà Sport Roma 
+https://stream9.xdevel.com/video2s975363-2378/stream/chunks.m3u8?nimblesessionid=530680893
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/ts2000.png",83 Tuscia Sabina 2000 Rieti
+https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/cittaceleste.png",85 Radio Città Celeste Roma
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8?hdnts=exp=1767028713~acl=/*~hmac=492412fcb1a75e40738d41f4d8f936923abaa3d15b27e8bb6419fdf4127604fa
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/rtr99.png",87 RTR 99 TV Roma
@@ -543,6 +549,10 @@ https://giatv.bozztv.com/giatv/giatv-centroitalia/centroitalia/chunks.m3u8
 https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/chunklist_w1978805621.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/retesole.png",110 Rete Sole Lazio Roma
 https://5926fc9c7c5b2.streamlock.net:443/9332/9332/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/rockaforte.png",110 La Rockaforte TV Roma
+https://5926fc9c7c5b2.streamlock.net/npwsqkmzjp/npwsqkmzjp/chunklist_w1940560447.m3u8
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/sl48.jpg",119 SL48 Latina
+https://streaming.softwarecreation.it/sl48/sl48/chunklist_w303129417.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/golfo.png",183 RTG Telegolfo Minturno (LT)
 https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/chunklist_w162809402.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/radiorte.png",184 Tele Radio Orte (RM)
@@ -575,8 +585,6 @@ https://streaming.softwarecreation.it/Odeon/Odeon/chunklist_w830866810.m3u8
 https://eco.streams.ovh:1936/radiocivitainblu/radiocivitainblu/chunklist_w2051597050.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/radioradio.png",Radio Radio TV Roma
 https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/sl48.jpg",SL48 Latina
-http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/mambo.png",Radio Mambo Roma
 https://5926fc9c7c5b2.streamlock.net/9044/9044/chunklist_w1730712829.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/teleroma2.png",Tele Roma 2
@@ -589,8 +597,6 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/chunklist_w309384895.m
 https://streaming.softwarecreation.it/RomaCH71/RomaCH71/chunklist_w423482179.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/tln.png", Tele Nord Lazio Viterbo
 http://145.239.199.155:8081/tln/regia_viterbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/ts2000.png",Tuscia Sabina 2000 Rieti
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/telepace.png",Telepace Roma 
 https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="https://horsefly11.github.io/tv/fatima.png",Fatima TV Roma
@@ -759,17 +765,19 @@ https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/fanotv.png",19 Fano TV Fano (AN)
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/fmfano.png",75 FM Fano TV Fano (AN)
-https://bbtv.intvstream.net:3988/hybrid/play.m3u8
+https://direct.intvstream.net:3737/live/fmtvlive.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/radiolineatv.png",76 Radio Linea n. 1  Civitanova Marche (MC)
-https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/chunklist_w1747997935.m3u8
+https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/chunklist_w373981775.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/studio7.png",78 Radio Studio 7 TV Macerata
 https://stream9.xdevel.com/video0s976596-1371/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/rossini.png",80 Rossini TV Pesaro
 https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57_output_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/emmetv.png",89 Emme TV Macerata
-https://live21.bozztv.com/akamaissh101/ssh101/emmetv89/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/emmetv89/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/skyline-tv.png",96 Skyline Radio & Soul Civitanova Marche (MC)
 https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/chunklist_w687463892.m3u8
+#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/arancia.png",98 Arancia TV Ancona
+https://stream3.xdevel.com/video0s975447-164/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/rtm-marche.png",99 RTM Folignano (AP)
 https://cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/centro.png",10 Centromarche TV Jesi (AN)
@@ -778,8 +786,6 @@ https://live21.bozztv.com/akamaissh101/ssh101/tvcm1/chunks.m3u8
 https://w1.mediastreaming.it/radiofmfaleria/radiofmfaleria-sf.stream/chunklist_w1172880573.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/etvmarche.png",ETV+ Marche Ancona
 https://live.ipstream.it/etvmarche2/etvmarche2.stream/chunklist_w1337423826.m3u8
-#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/arancia.png",Arancia TV Ancona
-https://stream3.xdevel.com/video0s975447-164/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/goldmar.png",Radio Gold TV Fabriano (AN)
 https://str61.fluid.stream/RadioGoldTV/livestream/chunklist_w1138931549.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/maria.png",Mariavision Loreto (AN) 
@@ -1240,18 +1246,20 @@ https://5926fc9c7c5b2.streamlock.net:443/9332/9332/playlist.m3u8
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/trg.png",13 TRG Umbria Gubbio (PG)
 https://www.trgmedia.it/hls/livestreamHD.m3u8
+#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/umbria+.png",15 Umbria+
+https://stream10.xdevel.com/video9s975363-3106/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/etv-umbria.png",19 ETV Umbria Perugia
 https://live.ipstream.it/etvumbria/etvumbria.stream/chunklist_w294833691.m3u8
+#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/super.png",75 Super 24 TV
+https://5db313b643fd8.streamlock.net/leotv/leotv/chunklist_w1013335110.m3u8
+#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/am.png",84 AM Channel Terni
+https://stream9.xdevel.com/video0s976364-1176/stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/cuoreverde.png",98 Cuore Verde TV
+https://stella.streamerr.co:3123/live/cuoreverdetvlive.m3u8
 #EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/galileo.png",111 Tele Galileo Terni
 https://samson.streamerr.co:8081/telegalileo-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/am.png",84 AM Channel Terni
-https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/trt.png",Umbria TRT Terni
 https://diretta.umbriapiu.it:8080/show/show_high/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/ttv.png",Tele Tevere TV Città Di Castello (PG)
-https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="https://horsefly11.github.io/tv/yes.png",TV Yes Italia
-https://stream1.aswifi.it/radioyes/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="VALLE D'AOSTA" tvg-logo="https://horsefly11.github.io/tv/telecity_v.png",10 Telecity Valle D'Aosta Castelletto d'Orba (AL)
 https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/chunklist_w2054216763.m3u8
