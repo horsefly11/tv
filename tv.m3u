@@ -47,7 +47,7 @@ https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40f
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/canale8.png",14 Canale 8 Napoli
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/chunklist_w546894622.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/otto.jpg",16 Otto Channel Avellino 
-https://cdn147-fra.azotosolutions.com:8443/cdnedge/smil:live.smil/chunklist_w782616894_b4692000.m3u8
+https://cdn146-fra.azotosolutions.com:8443/cdnedge/smil:live.smil/chunklist_w716674754_b3000000_slen.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/tvaca.png",75 TVA Campania Napoli
 https://stream10.xdevel.com/video0s978817-3107/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/kisskissna.png",76 Kiss Kiss Napoli
@@ -73,7 +73,7 @@ https://stream3.aswifi.it/giglitv/live/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/capri.png",93 Radio Capri (NA)
 https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b_output_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/videonola.png",94 Video Nola (NA)
-https://videonola.aswifi.it/videonolaabr/live_hi/index.m3u8
+https://videonola.aswifi.it/videonolaabr/live_mid/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/campaniatv.png",96 Campania TV Napoli 
 https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/primana.png",97 Prima Napoli TV
@@ -1525,6 +1525,8 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="SVIZZERA" tvg-logo="https://horsefly11.github.io/tv/rsila2.png",RSI La 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="FRANCIA" tvg-logo="https://horsefly11.github.io/tv/tfiseries.jpg",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Sao6JpzJPkJd/Wr7tGIOl8TXSHCw7.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANCIA" tvg-logo="https://horsefly11.github.io/tv/m6.png",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="FRANCIA" tvg-logo="https://horsefly11.github.io/tv/tfiseries.jpg",TF1 Series
