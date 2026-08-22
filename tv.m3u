@@ -39,7 +39,7 @@ https://585b674743bbb.streamlock.net/9022/9022/chunklist_w296811806.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/playtag.png",PlayTag# Cava Dei Tirreni (SA)
 https://cdn3.wowza.com/5/MVFNZnRHbnliTDI2/radio_playtag1/playtag/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/rtccava.png",181 RTC Quarta Rete Cava Dei Tirreni (SA)
-https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+https://msh0232.stream.seeweb.it/live/stream00.sdp/chunklist_w1854579579.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/canale21.png",10 Canale 21 Napoli
 https://streamcdnr1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist_b928000.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/telea.png",13 Tele A Napoli
@@ -54,9 +54,9 @@ https://stream10.xdevel.com/video0s978817-3107/stream/chunks.m3u8
 https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/chunklist_w2106192277_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/teleclub.png",77 Teleclubitalia Napoli
 https://teleclubitalia.iostream.it/tci1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/calciona.png",79 Nora TV Acerra (NA)
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nora.jpg",79 Nora TV Acerra (NA)
 https://57068da1deb21.streamlock.net/noratv/noratv/chunklist_w202011372.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nora.jpg",79 Calcio Napoli 24 TV
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/calciona.png",79 Calcio Napoli 24 TV
 https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nuvola.png",80 Nuvola TV Ischia (NA)
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c_output_0.m3u8
@@ -80,8 +80,8 @@ https://videonola.aswifi.it/videonolaabr/live_mid/index.m3u8
 https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/primana.png",97 Prima Napoli TV
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/tv7.png",97 TV7 Benevento
-https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/chunklist_w106139708.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/tv7bn.png",97 TV7 Benevento
+https://msh0320.stream.seeweb.it/live/tv7.sdp/chunklist_w1729380206.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/campi.png",99 Campi Flegrei Pozzuoli (NA)
 https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/primaset.png",149 Primaset Caserta
