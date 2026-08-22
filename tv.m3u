@@ -54,8 +54,10 @@ https://stream10.xdevel.com/video0s978817-3107/stream/chunks.m3u8
 https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/chunklist_w2106192277_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/teleclub.png",77 Teleclubitalia Napoli
 https://teleclubitalia.iostream.it/tci1080.m3u8
-#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nora.jpg",79 Nora TV Acerra (NA)
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/calciona.png",79 Nora TV Acerra (NA)
 https://57068da1deb21.streamlock.net/noratv/noratv/chunklist_w202011372.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nora.jpg",79 Calcio Napoli 24 TV
+https://stream10.xdevel.com/video0s978967-3218/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/nuvola.png",80 Nuvola TV Ischia (NA)
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c_output_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="https://horsefly11.github.io/tv/ischia.png",81 TeleIschia (NA)
