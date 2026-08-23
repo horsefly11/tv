@@ -681,10 +681,14 @@ https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11e
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/rete55.png",88 R55 Varese
 https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/valpadana.png",90 Valpadana TV Soresina (CR)
+https://stream10.xdevel.com/video1s979075-3293/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/seilatv.png",94 Sei La TV Bergamo
 https://nrvideo1.newradio.it:1936/efstzahwew/efstzahwew/chunklist_w1123512436.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/supertv.png",96 Super TV Brescia 
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/telestella.png",99 Telestella Bariano (BG)
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w1749179969.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/telestella.png",96 Super TV Brescia 
+https://stream10.xdevel.com/video0s979075-3292/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/babayaga-tv.png",178 BabaYaga TV Cologno Monzese (MI) 
 https://stream1.xdevel.com/video0s975770-326/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/elivebresciatv.png",181 E' Live Brescia 
@@ -756,10 +760,10 @@ https://streaming.freedomsr.com/visual/stream/stream1800.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="https://horsefly11.github.io/tv/ran5.png",Radio Antenna 5 Crema
 http://178.33.224.197:1935/antenna5/antenna5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/etvmarche.png",12 ETV Marche Ancona
-https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/veratv.png",11 Vera TV San Benedetto del Tronto (AP)
 https://cdn9.streamshow.it/cloud-veratv/veratv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/etvmarche.png",12 ETV Marche Ancona
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/tvrs.png",13 TVRS Recanati (MC) 
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="https://horsefly11.github.io/tv/videotolentino.png",16 Video Tolentino (MC) 
